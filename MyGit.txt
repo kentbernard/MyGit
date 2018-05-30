@@ -3,3 +3,6 @@ git is free software
 now git is running
 four's time to edit
 five's add
+
+now remote is start running ok!!!
+
