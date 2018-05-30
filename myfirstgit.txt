@@ -1,1 +1,2 @@
+now is time to finish the git remote
 This is my first git install
