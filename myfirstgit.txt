@@ -1,5 +1,11 @@
 now is time to finish the git remote
 This is my first git install
 
+
 I can use branch to finish sometsing
+
+
+this is seconed time to add code
+
+
 
